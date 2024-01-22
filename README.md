@@ -1,8 +1,8 @@
 # What is this?
 This is a switch to toggle between dark and light mode.\
-I made this as a project to later incorparate in my website.
+I made this as a project to incorporate into my website later.
 
-I created this design based off [neumorphism][1].\
+I created this design based on [neumorphism][1].\
 Also, I modified Lichin's [UI kit][2] for [my design][3].
 
 ## SVGs used:
